@@ -5,16 +5,16 @@
     "spider": "./jar/pg.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
     "wallpaper": "http://p0.qhimg.com/bdr/__85/t01a3d15d1c3eb047aa.jpg",
     "sites": [
-            {
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/tokenm.json$$$./json/douban.json"
-		},		        		        
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "indexs": 1,
+            "ext": "./lib/tokenm.json$$$./json/douban.json"
+        },
         {
             "key": "网盘配置",
             "name": "网盘及彈幕配置",
@@ -28,7 +28,7 @@
                 "ratio": 1.5
             }
         },
-                {
+        {
             "key": "賤賤",
             "name": "荐片",
             "type": 3,
@@ -38,7 +38,7 @@
             "ext": "./json/jianpian.json$$$1",
             "timeout": 60
         },
-                {
+        {
             "key": "奈飞",
             "name": "奈飞",
             "type": 3,
@@ -48,7 +48,7 @@
             "filterable": 1,
             "order_num": 1,
             "ext": "./js/奈飞.js"
-        },         
+        },
         {
             "key": "厂长",
             "name": "厂长🇨🇳",
@@ -59,7 +59,7 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "./js/厂长.js"
-        },        
+        },
         {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt"
+            "jar": "./jar/fan.txt"
         },
         {
             "key": "文采",
@@ -79,7 +79,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt"
+            "jar": "./jar/fan.txt"
         },
         {
             "key": "南瓜",
@@ -90,7 +90,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt"
+            "jar": "./jar/fan.txt"
         },
         {
             "key": "速播",
@@ -100,7 +100,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt",
+            "jar": "./jar/fan.txt",
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
         },
         {
@@ -112,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt",
+            "jar": "./jar/fan.txt",
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
@@ -123,64 +123,64 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"./jar/fan.txt"
+            "jar": "./jar/fan.txt"
         },
         {
-      "key": "天天",
-      "name": "☁️天天┃1080P",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
-    },    
-    {
-      "key": "繁荣",
-      "name": "🥝凡人┃1080P",
-      "type": 3,
-      "api": "csp_Frong",
-      "playerType": 2,
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
-    },        
-    {
-      "key": "csp_Dm84",
-      "name": "🎨动漫┃1080P",
-      "type": 3,
-      "api": "csp_Dm84",
-      "playerType": 2,
-      "jar":"./jar/1106.jar"
-    },
-    {
-      "key": "摸鱼瓜子",
-      "name": "瓜子┃蓝光",
-      "type": 3,
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子┃APP",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "jar":"./jar/1106.jar"
-    },
-    {
-      "key": "mgtv",
-      "name": "芒果┃4k",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/11116/js/guoguo.js"
-    },    
+            "key": "天天",
+            "name": "☁️天天┃1080P",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+        },
+        {
+            "key": "繁荣",
+            "name": "🥝凡人┃1080P",
+            "type": 3,
+            "api": "csp_Frong",
+            "playerType": 2,
+            "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+        },
+        {
+            "key": "csp_Dm84",
+            "name": "🎨动漫┃1080P",
+            "type": 3,
+            "api": "csp_Dm84",
+            "playerType": 2,
+            "jar": "./jar/1106.jar"
+        },
+        {
+            "key": "摸鱼瓜子",
+            "name": "瓜子┃蓝光",
+            "type": 3,
+            "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+        },
+        {
+            "key": "瓜子",
+            "name": "🍉瓜子┃APP",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "jar": "./jar/1106.jar"
+        },
+        {
+            "key": "mgtv",
+            "name": "芒果┃4k",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "https://d.kstore.dev/download/11116/js/guoguo.js"
+        },
         {
             "key": "天启",
             "name": "天启",
@@ -345,6 +345,76 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "./js/农民影视.js"
+        },
+        {
+            "key": "低端影视",
+            "name": "低端｜影视",
+            "type": 3,
+            "jar": "./jar/xbpq.jar",
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "素白白",
+            "name": "👑素白白👑",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xbpq.jar",
+            "ext": {
+                "站名": "素白白影视",
+                "主页url": "https://www.subaibai.com",
+                "图片代理": "0",
+                "头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$www.subaibai.com#Referer$https://www.subaibai.com/#Origin$https://www.subaibai.com/",
+                "分类": "国产剧&电影&电视剧&热门电影&高分电影&动漫电影&欧美剧&韩剧&动漫剧",
+                "分类值": "domestic-drama&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&american-drama&korean-drama&anime-drama",
+                "分类url": "https://www.subaibai.com/{cateId}/page/{catePg};;aks2",
+                "二次截取": "<div class=\"bt_img mi_ne_kd mrb\">&&<div class=\"clear\">",
+                "数组": "<li>&&</a>[替换:data-original=\">>图https://images.weserv.nl/?url=#https://www.subaibaiys.com>>https://www.subaibai.com]",
+                "图片": "图&&\"",
+                "副标题": "class=\"jidi\"><span>&&</span>",
+                "搜索模式": "1",
+                "搜索url": "https://www.subaibai.com/?s={wd}",
+                "影片年代": "年份：&&</li>",
+                "影片地区": "地区：&&</li>",
+                "影片类型": "类型：&&</li>",
+                "导演": "导演：&&</li>",
+                "主演": "主演：&&</li>",
+                "简介": "yp_context\">&&</p>",
+                "线路数组": "mi_paly_box\">&&</div>",
+                "线路标题": "ypxingq_t\">&&<span>[替换:在线播放>>素白专线]",
+                "播放数组": "<div class=\"paly_list_btn\">&&</div>[替换:https://www.subaibaiys.com>>https://www.subaibai.com]",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "嗅探词": "wangchuanxin.top#.mp4?#.m3u8#.mp4#.flv#.mp3#.m4a",
+                "过滤词": "data.m3u8.in#51.la#cnzz.com#baidu.com#bilibili.com",
+                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#authority$wangchuanxin.top#Origin$https://www.subaibai.com/"
+            }
+        },
+        {
+            "key": "金牌影视",
+            "name": "金牌影视",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/金牌影视.js"
+        },
+        {
+            "key": "歪片星球",
+            "name": "歪片星球",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/歪片星球.js"
         },
         {
             "key": "夕云影视",
@@ -720,34 +790,34 @@
             }
         },
         {
-      "name": "1080解析",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+            "name": "1080解析",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
         {
             "name": "大家",
             "type": 0,
